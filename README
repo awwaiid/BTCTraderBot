@@ -1,0 +1,4 @@
+This is an extremely simple BTC bot trading on mtgox.
+
+To start, it just does an over/under of the current price.
+
